@@ -37,3 +37,7 @@ Implementation of a new three-party QSS protocol based on a three-qubit W state 
 Includes Qiskit Aer simulations, IBM Quantum measurements from Kingston, Fez and Marrakesh and analysis of intercept-and-resend and entangle-and-measure attacks.
 
 ---
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
