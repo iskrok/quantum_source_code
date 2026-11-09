@@ -1,0 +1,12 @@
+# Reference numerical environment: Python 3.12.14.
+qiskit==2.6.2
+qiskit-aer==0.18.2
+qiskit-ibm-runtime==0.51.0
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.10.8
+pylatexenc==2.11
+
+# Jupyter interface and Python kernel.
+jupyterlab>=4,<5
+ipykernel>=6,<8
